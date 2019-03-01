@@ -51,8 +51,8 @@
     <string name="new_time">Neue Zeit</string>
     <string name="active">Aktiv</string>
     <string name="no_app_speech">Keine Anwendung zur Spracherkennung installiert</string>
-    <string name="recurrence">Recurrence</string>
-    <string name="schedule">Schedule</string>
-    <string name="non_stick_alert">A non sticky note when swiped away will remain in your active reminders list, the notification will not re-spawn unless the app or device is restarted.</string>
-    <string name="set_non_stick">Set Not Sticky?</string>
+    <string name="recurrence">Wiederholung</string>
+    <string name="schedule">Zeitplan</string>
+    <string name="non_stick_alert">Eine nicht klebende Notiz, wenn sie weggestrichen wird, bleibt in Ihrer aktiven Erinnerungsliste, die Benachrichtigung wird nicht erneut ausgeführt, es sei denn, die App oder das Gerät wird neu gestartet.</string>
+    <string name="set_non_stick">Set Nicht klebrig?</string>
 </resources>

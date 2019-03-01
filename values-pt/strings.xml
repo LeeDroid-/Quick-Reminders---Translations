@@ -51,8 +51,8 @@
     <string name="new_time">Novo tempo</string>
     <string name="active">Ativo</string>
     <string name="no_app_speech">Nenhum aplicativo instalado para lidar com reconhecimento de fala</string>
-    <string name="recurrence">Recurrence</string>
-    <string name="schedule">Schedule</string>
-    <string name="non_stick_alert">A non sticky note when swiped away will remain in your active reminders list, the notification will not re-spawn unless the app or device is restarted.</string>
-    <string name="set_non_stick">Set Not Sticky?</string>
+    <string name="recurrence">Recorrência</string>
+    <string name="schedule">Programação</string>
+    <string name="non_stick_alert">Uma nota não pegajosa ao ser removida permanecerá na sua lista de lembretes ativos, a notificação não será re-spawn a menos que o aplicativo ou dispositivo seja reiniciado.</string>
+    <string name="set_non_stick">O Set não é pegajoso?</string>
 </resources>

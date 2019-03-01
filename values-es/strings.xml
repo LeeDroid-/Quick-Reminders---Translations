@@ -51,8 +51,8 @@
     <string name="new_time">Nueva Hora</string>
     <string name="active">Activo</string>
     <string name="no_app_speech">No hay ninguna aplicación instalada para manejar el reconocimiento de voz</string>
-    <string name="recurrence">Recurrence</string>
-    <string name="schedule">Schedule</string>
-    <string name="non_stick_alert">A non sticky note when swiped away will remain in your active reminders list, the notification will not re-spawn unless the app or device is restarted.</string>
+    <string name="recurrence">Recurrencia</string>
+    <string name="schedule">Calendario</string>
+    <string name="non_stick_alert">Una nota no adhesiva al pasar el dedo por encima permanecerá en la lista de recordatorios activos, la notificación no volverá a aparecer a menos que la aplicación o el dispositivo se reinicie.</string>
     <string name="set_non_stick">Set Not Sticky?</string>
 </resources>
