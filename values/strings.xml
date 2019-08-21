@@ -2,58 +2,59 @@
     <string name="app_name" translatable="false">Quick Reminders</string>
     <string name="about">
         <![CDATA[<b>Quick Reminders:</b>
-        <br/>\u2022Pin Notes &amp; Reminders to your notification pull-down.
-        <br/><br/><b>Designed &amp; Developed By:</b>
+        <br/>\u2022Pin Notes &amp; Υπενθυμίσεις στην περιοχή ειδοποιήσεων.
+        <br/><br/><b>Σχεδιασμός &amp; Ανάπτυξη:</b>
         <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
-        <br/><br/><b>Translations By:</b>
+        <br/><br/><b>Μεταφράσεις:</b>
         <br/>\u2022 G Alarco/@guillerag - Spanish
 	    <br/>\u2022 Sérgio Neto - Portuguese
 	    <br/>\u2022 Star Walking - Thai
-        <br/><br/><b>Quick Tip\'s:</b>
-        <br/>\u2022 Create a high priority reminder to show an icon in the status bar.
-        <br/>\u2022 Low priority notifications are fully collapsible.
-        <br/>\u2022 Sticky notifications cannot be accidentally swiped away.
-        <br/>\u2022 Schedule a notification to appear at a specific time.
-        <br/><br/>Feel free to contact me directly &amp; don\'t forget to leave a review &#128512;]]></string>
-    <string name="close">Close</string>
-    <string name="rate_app">Rate Me</string>
-    <string name="no">No</string>
-    <string name="yes">Yes</string>
-    <string name="send_report">Send Crash\nReport</string>
-    <string name="close_app">Clear\nError</string>
-    <string name="oops_error">Oops.. looks like something went wrong &amp; Quick Reminders Crashed!\n\nSorry for the inconvenience.</string>
-    <string name="dismiss">Dismiss</string>
-    <string name="newRem">New Reminder</string>
-    <string name="sticky">Sticky Notification</string>
-    <string name="remind_max">Reminder (%01d/400)</string>
-    <string name="tile_max">Title (%01d/32)</string>
-    <string name="random_colour">Random Highlight Colour</string>
-    <string name="edit">Edit</string>
-    <string name="notifs_off">Quick Reminders notifications are disabled.  Click here to go to settings and re-enable them.</string>
-    <string name="email_feedback">Feedback</string>
-    <string name="desc_notif">High priority notification.</string>
-    <string name="cancel">Cancel</string>
-    <string name="custom_highlight">Custom Highlight Colour</string>
-    <string name="options">Options</string>
-    <string name="tap_centre">Tap Centre To Confirm</string>
-    <string name="select">Select Highlight Colour</string>
-    <string name="high_priority">High Priority</string>
-    <string name="low_priority">Low Priority</string>
-    <string name="max_lines_ex">Max Lines Exceeded</string>
-    <string name="set_text">Highlight Contents Text</string>
-    <string name="non_scheduled">No Active Reminders</string>
-    <string name="active_reminders">Active Reminders</string>
-    <string name="delete">Delete</string>
-    <string name="reminder_lost">Alert</string>
-    <string name="reminder_editing">Reminder will be lost if you do not click save.</string>
-    <string name="back">Go Back</string>
-    <string name="group">Group Notifications</string>
-    <string name="re_use">Use Previous Time?</string>
-    <string name="new_time">New Time</string>
-    <string name="active">Active</string>
-    <string name="no_app_speech">No application installed to handle speech recognition</string>
-    <string name="recurrence">Recurrence</string>
-    <string name="schedule">Schedule</string>
-    <string name="set_non_stick">Set Not Sticky?</string>
-    <string name="non_stick_alert">A non sticky note when swiped away will remain in your active reminders list, the notification will not re-spawn unless the app or device is restarted.</string>
+	    <br/>\u2022 Vasilis Kosmidis - Greek
+        <br/><br/><b>Γρήγορες συμβουλές:</b>
+        <br/>\u2022 Δημιουργήστε μια υπενθύμιση υψηλής προτεραιότητας για να εμφανιστεί εικονίδιο στην περιοχή ειδοποιήσεων.
+        <br/>\u2022 Οι υπενθυμίσεις χαμηλής προτεραιότητας είναι συμπτύξιμες.
+        <br/>\u2022 Οι εμμένουσες ειδοποιήσεις δεν μπορούν να απομακρυνθούν κατά λάθος.
+        <br/>\u2022 Προγραμματίστε μια ειδοποίηση για να εμφανιστεί σε ένα συγκεκριμένο χρόνο.
+        <br/><br/>Μη διστάσετε να επικοινωνήσετε μαζί μου &amp; μην ξεχάσετε να γράψετε μια αξιολόγηση &#128512;]]></string>
+    <string name="close">Έξοδος</string>
+    <string name="rate_app">Αξιολόγηση</string>
+    <string name="no">Όχι</string>
+    <string name="yes">Ναι</string>
+    <string name="send_report">Αποστολή αναφοράς</string>
+    <string name="close_app">Εκκαθάριση\nΣφάλματος</string>
+    <string name="oops_error">Ουπς.. κάτι δεν πήγε καλά &amp; Το Quick Reminders κράσαρε!\n\nΣυγγνώμη για την ταλαιπωρία.</string>
+    <string name="dismiss">Διαγραφή</string>
+    <string name="newRem">Νέα υπενθύμιση</string>
+    <string name="sticky">Εμμένουσα ειδοποίηση</string>
+    <string name="remind_max">Κείμενο (%01d/400)</string>
+    <string name="tile_max">Τίτλος (%01d/32)</string>
+    <string name="random_colour">Τυχαίο χρώμα ειδοποίησης</string>
+    <string name="edit">Τροποποίηση</string>
+    <string name="notifs_off">Οι ειδοποιήσεις του Quick Reminders είναι απενεργοποιημένες. Πατήστε εδώ για να τις ενεργοποιήσετε.</string>
+    <string name="email_feedback">Σχόλια</string>
+    <string name="desc_notif">Ειδοποίηση υψηλής προτεραιότητας.</string>
+    <string name="cancel">Άκυρο</string>
+    <string name="custom_highlight">Επιλογή χρώματος ειδοποίησης</string>
+    <string name="options">Επιλογές</string>
+    <string name="tap_centre">Πατήστε στο κέντρο για επιβεβαίωση</string>
+    <string name="select">Επιλογή χρώματος ειδοποίησης</string>
+    <string name="high_priority">Υψηλή προτεραιότητα</string>
+    <string name="low_priority">Χαμηλή προτεραιότητα</string>
+    <string name="max_lines_ex">Υπέρβαση των μέγιστων γραμμών</string>
+    <string name="set_text">Χρωματισμός του κειμένου</string>
+    <string name="non_scheduled">Καμία ενεργή υπενθύμιση</string>
+    <string name="active_reminders">Ενεργές υπενθυμίσεις</string>
+    <string name="delete">Διαγραφή</string>
+    <string name="reminder_lost">Προσοχή</string>
+    <string name="reminder_editing">Η υπενθύμιση θα χαθεί, αν δεν πατήσετε αποθήκευση.</string>
+    <string name="back">Πίσω</string>
+    <string name="group">Ομαδοποίηση ειδοποιήσεων</string>
+    <string name="re_use">Χρήση προηγούμενου χρόνου;</string>
+    <string name="new_time">Νέος χρόνος</string>
+    <string name="active">Ενεργή</string>
+    <string name="no_app_speech">Δεν υπάρχει εφαρμογή αναγνώρισης φωνής</string>
+    <string name="recurrence">Επανάληψη</string>
+    <string name="schedule">Προγραμματισμός</string>
+    <string name="set_non_stick">Μη εμμένουσα;</string>
+    <string name="non_stick_alert">Μια μη εμμένουσα υπενθύμιση θα παραμείνει στη λίστα των ενεργών όταν την απομακρύνετε από την περιοχή ειδοποιήσεων και δε θα επανεμφανιστεί, παρά μόνο αν η εφαρμογή ή η συσκευή επανεκκινηθεί.</string>
 </resources>
