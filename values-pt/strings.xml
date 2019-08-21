@@ -40,7 +40,6 @@
     <string name="low_priority">Baixa prioridade</string>
     <string name="max_lines_ex">Linhas Máximas Excedidas</string>
     <string name="set_text">Destaque o conteúdo do texto</string>
-    <string name="non_scheduled">Nenhum lembrete ativo</string>
     <string name="active_reminders">Lembretes ativos</string>
     <string name="delete">Excluir</string>
     <string name="reminder_lost">Alerta</string>
@@ -55,4 +54,6 @@
     <string name="schedule">Programação</string>
     <string name="non_stick_alert">Uma nota não pegajosa ao ser removida permanecerá na sua lista de lembretes ativos, a notificação não será re-spawn a menos que o aplicativo ou dispositivo seja reiniciado.</string>
     <string name="set_non_stick">O Set não é pegajoso?</string>
+    <string name="dark">Tema Escuro</string>
+    <string name="saved">Salva</string>
 </resources>

@@ -40,7 +40,6 @@
     <string name="low_priority">ลำดับความสำคัญต่ำ</string>
     <string name="max_lines_ex">เกินจำนวนสายแล้ว</string>
     <string name="set_text">เน้นเนื้อหาข้อความ</string>
-    <string name="non_scheduled">ไม่มีการแจ้งเตือนที่ใช้งานอยู่</string>
     <string name="active_reminders">การแจ้งเตือนที่ใช้งานอยู่</string>
     <string name="delete">ลบ</string>
     <string name="reminder_lost">เตือน</string>
@@ -51,8 +50,10 @@
     <string name="new_time">เวลาใหม่</string>
     <string name="active">คล่องแคล่ว</string>
     <string name="no_app_speech">ไม่ได้ติดตั้งแอปพลิเคชันเพื่อจัดการจดจำเสียงพูด</string>
-    <string name="recurrence">Recurrence</string>
-    <string name="schedule">Schedule</string>
-    <string name="non_stick_alert">A non sticky note when swiped away will remain in your active reminders list, the notification will not re-spawn unless the app or device is restarted.</string>
-    <string name="set_non_stick">Set Not Sticky?</string>
+    <string name="recurrence">การเกิดขึ้นอีก</string>
+    <string name="schedule">ตารางเวลา</string>
+    <string name="non_stick_alert">โน้ตที่ไม่ติดหนึบเมื่อกวาดออกไปจะยังคงอยู่ในรายการเตือนความจำที่ใช้งานของคุณการแจ้งเตือนจะไม่เกิดขึ้นอีกเว้นแต่ว่าแอปหรืออุปกรณ์จะถูกรีสตาร์ท</string>
+    <string name="set_non_stick">ตั้งไม่เหนียว?</string>
+    <string name="dark">ธีมสีเข้ม</string>
+    <string name="saved">ที่บันทึกไว้</string>
 </resources>

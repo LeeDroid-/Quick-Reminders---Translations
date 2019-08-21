@@ -41,7 +41,6 @@
     <string name="low_priority">Niski Priorytet</string>
     <string name="max_lines_ex">Przekroczono Maksymalną Liczbę Linii</string>
     <string name="set_text">Podświetlenie Zawartości Tekstowej</string>
-    <string name="non_scheduled">Brak Aktywnego Przypomnienia</string>
     <string name="active_reminders">Aktywne Przypomnienia</string>
     <string name="delete">Usuń</string>
     <string name="reminder_lost">Alarm</string>
@@ -56,4 +55,6 @@
     <string name="schedule">Harmonogram</string>
     <string name="set_non_stick">Ustawić Nie Przyklejony?</string>
     <string name="non_stick_alert">Nieprzyklejona wiadomość po usunięciu pozostanie na liście aktywnych przypomnień, powiadomienie nie zostanie ponownie dodane, chyba że aplikacja lub urządzenie zostanie ponownie uruchomione.</string>
+    <string name="dark">Ciemny motyw</string>
+    <string name="saved">Zapisane</string>
 </resources>

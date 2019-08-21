@@ -41,7 +41,6 @@
     <string name="max_lines_ex">Líneas excedidas</string>
     <string name="set_text">Color de realce en contenido</string>
     <string name="active_reminders">Recordatorios activos</string>
-    <string name="non_scheduled">No hay recordatorios activos</string>
     <string name="delete">Borrar</string>
     <string name="reminder_lost">Alerta</string>
     <string name="reminder_editing">El recordatorio se perderá si no presiona en Guardar</string>
@@ -54,5 +53,7 @@
     <string name="recurrence">Recurrencia</string>
     <string name="schedule">Calendario</string>
     <string name="non_stick_alert">Una nota no adhesiva al pasar el dedo por encima permanecerá en la lista de recordatorios activos, la notificación no volverá a aparecer a menos que la aplicación o el dispositivo se reinicie.</string>
-    <string name="set_non_stick">Set Not Sticky?</string>
+    <string name="set_non_stick">Juego no pegajoso?</string>
+    <string name="dark">Tema oscuro</string>
+    <string name="saved">Salvado</string>
 </resources>

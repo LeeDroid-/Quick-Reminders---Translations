@@ -21,11 +21,11 @@
         <item>#01579b</item>
     </array>
     <array name="reoccur_entries">
-        <item>Once</item>
-        <item>Every Minute</item>
-        <item>Hourly</item>
-        <item>Daily</item>
-        <item>Weekly</item>
-        <item>Monthly</item>
+        <item>Μια φορά</item>
+        <item>Ανά λεπτό</item>
+        <item>Ανά ώρα</item>
+        <item>Ανά ημέρα</item>
+        <item>Ανά εβδομάδα</item>
+        <item>Ανά μήνα</item>
     </array>
 </resources>
