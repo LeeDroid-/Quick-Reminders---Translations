@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name" translatable="false">Quick Reminders</string>
+    <string name="about">
+        <![CDATA[<b>Quick Reminders:</b>
+        <br/>\u2022Notlar &amp; Hatırlatıcıları bildirim panelinize sabitleyin.
+        <br/><br/><b>Tasarım &amp; Geliştirme:</b>
+        <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
+        <br/><br/><b>Çeviriler:</b>
+        <br/>\u2022 G Alarco/@guillerag - İspanyolca
+	    <br/>\u2022 Sérgio Neto - Portekizce
+	    <br/>\u2022 Vasilios Kos - Yunanca
+	    <br/>\u2022 Star Walking - Tay Dili
+        <br/><br/><b>Hızlı İpuçları:</b>
+        <br/>\u2022 Durum çubuğunda bir simge göstermek için yüksek öncelikli bir hatırlatıcı oluşturun.
+        <br/>\u2022 Düşük öncelikli bildirimler tamamen daraltılabilir.
+        <br/>\u2022 Yapışkan bildirimler yanlışlıkla silinemez.
+        <br/>\u2022 Belirli bir zamanda görünmesi için bir bildirim zamanlayın.
+        <br/><br/>Doğrudan benimle temas kurmaktan çekinmeyin &amp; bir inceleme bırakmayı unutmayın &#128512;]]></string>
+    <string name="close">Kapat</string>
+    <string name="rate_app">Beni Oyla</string>
+    <string name="no">Hayır</string>
+    <string name="yes">Evet</string>
+    <string name="send_report">Hata Raporu\nGönder</string>
+    <string name="close_app">Hatayı\nTemizle</string>
+    <string name="oops_error">Olamaz.. bir şeyler ters gitmiş gibi görünüyor &amp; Quick Reminders Çöktü!\n\nRahatsızlıktan dolayı özür dileriz.</string>
+    <string name="dismiss">Kapat</string>
+    <string name="newRem">Yeni Hatırlatıcı</string>
+    <string name="sticky">Yapışkan Bildirim</string>
+    <string name="remind_max">Hatırlatıcı (%01d/400)</string>
+    <string name="tile_max">Başlık (%01d/32)</string>
+    <string name="random_colour">Rastgele Vurgu Rengi</string>
+    <string name="edit">Düzenle</string>
+    <string name="notifs_off">Quick Reminders bildirimleri devre dışı. Ayarlara gitmek ve yeniden etkinleştirmek için buraya tıklayın.</string>
+    <string name="email_feedback">Geri Bildirim</string>
+    <string name="desc_notif">Yüksek öncelikli bildirim.</string>
+    <string name="cancel">İptal</string>
+    <string name="custom_highlight">Özel Vurgu Rengi</string>
+    <string name="options">Seçenekler</string>
+    <string name="tap_centre">Onaylamak İçin Ortaya Dokun</string>
+    <string name="select">Vurgu Rengi Seç</string>
+    <string name="high_priority">Yüksek Öncelik</string>
+    <string name="low_priority">Düşük Öncelik</string>
+    <string name="max_lines_ex">Maksimum Satır Aşıldı</string>
+    <string name="set_text">İçerik Metnini Vurgula</string>
+    <string name="active_reminders">Etkin/Kayıtlı Hatırlatıcılar</string>
+    <string name="delete">Sil</string>
+    <string name="reminder_lost">Uyarı</string>
+    <string name="reminder_editing">Kaydet\'i tıklamazsanız hatırlatıcı kaybolacak.</string>
+    <string name="back">Geri Git</string>
+    <string name="group">Bildirimleri Gruplandır</string>
+    <string name="re_use">Önceki Zaman Kullanılsın mı?</string>
+    <string name="new_time">Yeni Zaman</string>
+    <string name="active">Etkin</string>
+    <string name="no_app_speech">Konuşma tanımayı işlemek için hiçbir uygulama yüklü değil</string>
+    <string name="recurrence">Tekrar</string>
+    <string name="schedule">Zamanla</string>
+    <string name="set_non_stick">Yapışkan  Olarak Ayarlanmasın Mı?</string>
+    <string name="non_stick_alert">Kaydırıldığında yapışkan olmayan bir not etkin hatırlatıcılar listesinde kalır, uygulama veya cihaz yeniden başlatılmadıkça bildirim yeniden ortaya çıkmaz.</string>
+    <string name="dark">Koyu Tema</string>
+    <string name="saved">Kaydedildi</string>
+</resources>
