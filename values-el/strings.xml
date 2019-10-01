@@ -2,7 +2,7 @@
     <string name="app_name" translatable="false">Quick Reminders</string>
     <string name="about">
         <![CDATA[<b>Quick Reminders:</b>
-        <br/>\u2022Pin Notes &amp; Υπενθυμίσεις στην περιοχή ειδοποιήσεων.
+        <br/>\u2022Καρφιτσώστε σημειώσεις &amp; υπενθυμίσεις στην περιοχή ειδοποιήσεων.
         <br/><br/><b>Σχεδιασμός &amp; Ανάπτυξη:</b>
         <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
         <br/><br/><b>Μεταφράσεις:</b>
@@ -56,6 +56,6 @@
     <string name="schedule">Προγραμματισμός</string>
     <string name="set_non_stick">Μη εμμένουσα;</string>
     <string name="non_stick_alert">Μια μη εμμένουσα υπενθύμιση θα παραμείνει στη λίστα των ενεργών όταν την απομακρύνετε από την περιοχή ειδοποιήσεων και δε θα επανεμφανιστεί, παρά μόνο αν η εφαρμογή ή η συσκευή επανεκκινηθεί.</string>
-    <string name="dark">Dark Theme</string>
-    <string name="saved">Saved</string>
+    <string name="dark">Σκοτεινό θέμα</string>
+    <string name="saved">Αποθηκεύτηκε</string>
 </resources>
