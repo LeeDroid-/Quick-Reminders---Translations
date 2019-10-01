@@ -56,4 +56,5 @@
     <string name="set_non_stick">Juego no pegajoso?</string>
     <string name="dark">Tema oscuro</string>
     <string name="saved">Salvado</string>
+    <string name="compat_mode">Compatibility Mode</string>
 </resources>

@@ -56,4 +56,5 @@
     <string name="set_non_stick">ตั้งไม่เหนียว?</string>
     <string name="dark">ธีมสีเข้ม</string>
     <string name="saved">ที่บันทึกไว้</string>
+    <string name="compat_mode">Compatibility Mode</string>
 </resources>

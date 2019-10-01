@@ -58,4 +58,5 @@
     <string name="non_stick_alert">Μια μη εμμένουσα υπενθύμιση θα παραμείνει στη λίστα των ενεργών όταν την απομακρύνετε από την περιοχή ειδοποιήσεων και δε θα επανεμφανιστεί, παρά μόνο αν η εφαρμογή ή η συσκευή επανεκκινηθεί.</string>
     <string name="dark">Σκοτεινό θέμα</string>
     <string name="saved">Αποθηκεύτηκε</string>
+    <string name="compat_mode">Compatibility Mode</string>
 </resources>

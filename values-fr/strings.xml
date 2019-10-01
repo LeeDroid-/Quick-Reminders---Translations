@@ -58,4 +58,5 @@
     <string name="tap_centre">Tapez sur Centre pour confirmer</string>
     <string name="tile_max">Titre (%01d/32)</string>
     <string name="yes">Oui</string>
+    <string name="compat_mode">Compatibility Mode</string>
 </resources>

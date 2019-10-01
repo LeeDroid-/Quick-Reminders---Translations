@@ -56,4 +56,5 @@
     <string name="set_non_stick">O Set não é pegajoso?</string>
     <string name="dark">Tema Escuro</string>
     <string name="saved">Salva</string>
+    <string name="compat_mode">Compatibility Mode</string>
 </resources>

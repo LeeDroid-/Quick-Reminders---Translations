@@ -57,4 +57,5 @@
     <string name="non_stick_alert">Nieprzyklejona wiadomość po usunięciu pozostanie na liście aktywnych przypomnień, powiadomienie nie zostanie ponownie dodane, chyba że aplikacja lub urządzenie zostanie ponownie uruchomione.</string>
     <string name="dark">Ciemny motyw</string>
     <string name="saved">Zapisane</string>
+    <string name="compat_mode">Compatibility Mode</string>
 </resources>

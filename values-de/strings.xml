@@ -56,4 +56,5 @@
     <string name="set_non_stick">Set Nicht klebrig?</string>
     <string name="dark">Dunkles Thema</string>
     <string name="saved">Gespeichert</string>
+    <string name="compat_mode">Compatibility Mode</string>
 </resources>
