@@ -1,15 +1,15 @@
 <resources>
-    <string name="app_name" translatable="false">Quick Reminders</string>
+    <string name="app_name" translatable="false">Υπενθυμίσεις</string>
     <string name="about">
-        <![CDATA[<b>Quick Reminders:</b>
+        <![CDATA[<b>Υπενθυμίσεις:</b>
         <br/>\u2022Καρφιτσώστε σημειώσεις &amp; υπενθυμίσεις στην περιοχή ειδοποιήσεων.
         <br/><br/><b>Σχεδιασμός &amp; Ανάπτυξη:</b>
         <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
         <br/><br/><b>Μεταφράσεις:</b>
-        <br/>\u2022 G Alarco/@guillerag - Spanish
-	    <br/>\u2022 Sérgio Neto - Portuguese
-	    <br/>\u2022 Star Walking - Thai
-	    <br/>\u2022 Vasilis Kosmidis - Greek
+        <br/>\u2022 G Alarco/@guillerag - Ισπανικά
+	    <br/>\u2022 Sérgio Neto - Πορτογαλικά
+	    <br/>\u2022 Star Walking - Ταϊλανδέζικα
+	    <br/>\u2022 Βασίλης Κοσμίδης - Ελληνικά
         <br/><br/><b>Γρήγορες συμβουλές:</b>
         <br/>\u2022 Δημιουργήστε μια υπενθύμιση υψηλής προτεραιότητας για να εμφανιστεί εικονίδιο στην περιοχή ειδοποιήσεων.
         <br/>\u2022 Οι υπενθυμίσεις χαμηλής προτεραιότητας είναι συμπτύξιμες.
