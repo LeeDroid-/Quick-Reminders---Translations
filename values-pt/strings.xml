@@ -42,8 +42,8 @@
     <string name="set_text">Destaque o conteúdo do texto</string>
     <string name="active_reminders">Lembretes ativos</string>
     <string name="delete">Excluir</string>
-    <string name="reminder_lost">Alerta</string>
-    <string name="reminder_editing">O lembrete será  perdido se você não clicar em salvar.</string>
+    <string name="unsaved">Alerta</string>
+    <string name="unsaved_warn">O lembrete será  perdido se você não clicar em salvar.</string>
     <string name="back">Voltar atrás</string>
     <string name="group">Notificações de grupos</string>
     <string name="re_use">Usar o horário anterior?</string>
@@ -56,5 +56,10 @@
     <string name="set_non_stick">O Set não é pegajoso?</string>
     <string name="dark">Tema Escuro</string>
     <string name="saved">Salva</string>
-    <string name="compat_mode">Compatibility Mode</string>
+    <string name="compat_mode">Modo de Compatibilidade</string>
+    <string name="share">Share</string>
+    <string name="pin">Pin</string>
+    <string name="save">Save</string>
+    <string name="alert">Alert</string>
+    <string name="ok">Ok</string>
 </resources>

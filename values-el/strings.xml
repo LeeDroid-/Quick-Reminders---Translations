@@ -1,7 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">Υπενθυμίσεις</string>
     <string name="about">
-        <![CDATA[<b>Υπενθυμίσεις:</b>
         <br/>\u2022Καρφιτσώστε σημειώσεις &amp; υπενθυμίσεις στην περιοχή ειδοποιήσεων.
         <br/><br/><b>Σχεδιασμός &amp; Ανάπτυξη:</b>
         <br/>\u2022 Lee Bailey (AKA @LeeDrOiD)
@@ -44,8 +42,8 @@
     <string name="set_text">Χρωματισμός του κειμένου</string>
     <string name="active_reminders">Ενεργές υπενθυμίσεις</string>
     <string name="delete">Διαγραφή</string>
-    <string name="reminder_lost">Προσοχή</string>
-    <string name="reminder_editing">Η υπενθύμιση θα χαθεί, αν δεν πατήσετε αποθήκευση.</string>
+    <string name="unsaved">Προσοχή</string>
+    <string name="unsaved_warn">Η υπενθύμιση θα χαθεί, αν δεν πατήσετε αποθήκευση.</string>
     <string name="back">Πίσω</string>
     <string name="group">Ομαδοποίηση ειδοποιήσεων</string>
     <string name="re_use">Χρήση προηγούμενου χρόνου;</string>
@@ -58,5 +56,10 @@
     <string name="non_stick_alert">Μια μη εμμένουσα υπενθύμιση θα παραμείνει στη λίστα των ενεργών όταν την απομακρύνετε από την περιοχή ειδοποιήσεων και δε θα επανεμφανιστεί, παρά μόνο αν η εφαρμογή ή η συσκευή επανεκκινηθεί.</string>
     <string name="dark">Σκοτεινό θέμα</string>
     <string name="saved">Αποθηκεύτηκε</string>
-    <string name="compat_mode">Compatibility Mode</string>
+    <string name="compat_mode">Λειτουργία συμβατότητας</string>
+    <string name="share">Share</string>
+    <string name="pin">Pin</string>
+    <string name="save">Save</string>
+    <string name="alert">Alert</string>
+    <string name="ok">Ok</string>
 </resources>

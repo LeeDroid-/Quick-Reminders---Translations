@@ -27,5 +27,6 @@
         <item>Diariamente</item>
         <item>Semanal</item>
         <item>Mensal</item>
+        <item>Yearly</item>
     </array>
 </resources>

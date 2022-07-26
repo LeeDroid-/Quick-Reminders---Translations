@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Quick Reminders</string>
     <string name="about">
         <![CDATA[<b>Quick Reminders:</b>
         <br/>\u2022Pin Notes &amp; Reminders to your notification pull-down.
@@ -10,7 +9,7 @@
         <br/>\u2022 G Alarco/@guillerag - Spanish
 	    <br/>\u2022 Sérgio Neto - Portuguese
 	    <br/>\u2022 Star Walking - Thai
-        <br/><br/><b>Quick Tip\'s:</b>
+        <br/><br/><b>Tip\'s:</b>
         <br/>\u2022 Create a high priority reminder to show an icon in the status bar.
         <br/>\u2022 Low priority notifications are fully collapsible.
         <br/>\u2022 Sticky notifications cannot be accidentally swiped away.
@@ -46,8 +45,8 @@
     <string name="re_use">Utiliser le temps précédent ?</string>
     <string name="recurrence">Récurrence</string>
     <string name="remind_max">Rappel  (%01d/400)</string>
-    <string name="reminder_editing">Le rappel sera perdu si vous ne cliquez pas sur Enregistrer.</string>
-    <string name="reminder_lost">Alerte</string>
+    <string name="unsaved_warn">Le rappel sera perdu si vous ne cliquez pas sur Enregistrer.</string>
+    <string name="unsaved">Alerte</string>
     <string name="saved">Sauvé</string>
     <string name="schedule">Calendrier</string>
     <string name="select">Sélectionner la couleur de surbrillance</string>
@@ -58,5 +57,10 @@
     <string name="tap_centre">Tapez sur Centre pour confirmer</string>
     <string name="tile_max">Titre (%01d/32)</string>
     <string name="yes">Oui</string>
-    <string name="compat_mode">Compatibility Mode</string>
+    <string name="compat_mode">Mode Compatibilité</string>
+    <string name="share">Share</string>
+    <string name="pin">Pin</string>
+    <string name="save">Save</string>
+    <string name="alert">Alert</string>
+    <string name="ok">Ok</string>
 </resources>

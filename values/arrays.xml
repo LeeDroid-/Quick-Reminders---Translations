@@ -27,5 +27,6 @@
         <item>Daily</item>
         <item>Weekly</item>
         <item>Monthly</item>
+        <item>Yearly</item>
     </array>
 </resources>

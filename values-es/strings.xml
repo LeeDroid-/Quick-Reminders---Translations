@@ -42,8 +42,8 @@
     <string name="set_text">Color de realce en contenido</string>
     <string name="active_reminders">Recordatorios activos</string>
     <string name="delete">Borrar</string>
-    <string name="reminder_lost">Alerta</string>
-    <string name="reminder_editing">El recordatorio se perderá si no presiona en Guardar</string>
+    <string name="unsaved">Alerta</string>
+    <string name="unsaved_warn">El recordatorio se perderá si no presiona en Guardar</string>
     <string name="back">Volver atrás</string>
     <string name="group">Agrupar Notificaciones</string>
     <string name="re_use">¿Usar hora anterior?</string>
@@ -56,5 +56,10 @@
     <string name="set_non_stick">Juego no pegajoso?</string>
     <string name="dark">Tema oscuro</string>
     <string name="saved">Salvado</string>
-    <string name="compat_mode">Compatibility Mode</string>
+    <string name="compat_mode">Modo de compatibilidad</string>
+    <string name="share">Share</string>
+    <string name="pin">Pin</string>
+    <string name="save">Save</string>
+    <string name="alert">Alert</string>
+    <string name="ok">Ok</string>
 </resources>

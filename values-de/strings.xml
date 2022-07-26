@@ -8,7 +8,7 @@
         <br/>\u2022 G Alarco/@guillerag - Spanish
 	    <br/>\u2022 Sérgio Neto - Portuguese
 	    <br/>\u2022 Star Walking - Thai
-        <br/><br/><b>Quick Tip\'s:</b>
+        <br/><br/><b>Tip\'s:</b>
         <br/>\u2022 Erstellen Sie eine Erinnerung mit hoher Priorität, um ein Symbol in der Statusleiste anzuzeigen.
         <br/>\u2022 Benachrichtigungen mit niedriger Priorität sind vollständig zusammenklappbar.
         <br/>\u2022 Klebrige Benachrichtigungen können nicht versehentlich entfernt werden.
@@ -42,8 +42,8 @@
     <string name="set_text">Inhalt Hervorheben Text</string>
     <string name="active_reminders">Aktive Erinnerungen</string>
     <string name="delete">Löschen</string>
-    <string name="reminder_lost">Alarm</string>
-    <string name="reminder_editing">Die Erinnerung geht verloren, wenn Sie nicht auf Speichern klicken.</string>
+    <string name="unsaved">Alarm</string>
+    <string name="unsaved_warn">Die Erinnerung geht verloren, wenn Sie nicht auf Speichern klicken.</string>
     <string name="back">Zurückgehen</string>
     <string name="group">Meldungen zusammenfassen</string>
     <string name="re_use">Vorherige Zeit verwenden?</string>
@@ -56,5 +56,10 @@
     <string name="set_non_stick">Set Nicht klebrig?</string>
     <string name="dark">Dunkles Thema</string>
     <string name="saved">Gespeichert</string>
-    <string name="compat_mode">Compatibility Mode</string>
+    <string name="compat_mode">Kompatibilitätsmodus</string>
+    <string name="share">Share</string>
+    <string name="pin">Pin</string>
+    <string name="save">Save</string>
+    <string name="alert">Alert</string>
+    <string name="ok">Ok</string>
 </resources>

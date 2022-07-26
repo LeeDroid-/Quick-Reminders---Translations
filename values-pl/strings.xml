@@ -43,8 +43,8 @@
     <string name="set_text">Podświetlenie Zawartości Tekstowej</string>
     <string name="active_reminders">Aktywne Przypomnienia</string>
     <string name="delete">Usuń</string>
-    <string name="reminder_lost">Alarm</string>
-    <string name="reminder_editing">Przypomnienie zostanie utracone, jeśli nie klikniesz Zapisz.</string>
+    <string name="unsaved">Alarm</string>
+    <string name="unsaved_warn">Przypomnienie zostanie utracone, jeśli nie klikniesz Zapisz.</string>
     <string name="back">Wróć</string>
     <string name="group">Powiadomienia Grupowe</string>
     <string name="re_use">Użyć Poprzedni Czas?</string>
@@ -57,5 +57,10 @@
     <string name="non_stick_alert">Nieprzyklejona wiadomość po usunięciu pozostanie na liście aktywnych przypomnień, powiadomienie nie zostanie ponownie dodane, chyba że aplikacja lub urządzenie zostanie ponownie uruchomione.</string>
     <string name="dark">Ciemny motyw</string>
     <string name="saved">Zapisane</string>
-    <string name="compat_mode">Compatibility Mode</string>
+    <string name="compat_mode">Tryb kompatybilności</string>
+    <string name="share">Share</string>
+    <string name="pin">Pin</string>
+    <string name="save">Save</string>
+    <string name="alert">Alert</string>
+    <string name="ok">Ok</string>
 </resources>

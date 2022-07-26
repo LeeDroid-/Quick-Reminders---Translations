@@ -42,8 +42,8 @@
     <string name="set_text">เน้นเนื้อหาข้อความ</string>
     <string name="active_reminders">การแจ้งเตือนที่ใช้งานอยู่</string>
     <string name="delete">ลบ</string>
-    <string name="reminder_lost">เตือน</string>
-    <string name="reminder_editing">การแจ้งเตือนจะหายไปหากคุณไม่คลิกบันทึก</string>
+    <string name="unsaved">เตือน</string>
+    <string name="unsaved_warn">การแจ้งเตือนจะหายไปหากคุณไม่คลิกบันทึก</string>
     <string name="back">กลับไป</string>
     <string name="group">การแจ้งเตือนกลุ่ม</string>
     <string name="re_use">ใช้เวลาก่อนหน้านี้หรือไม่?</string>
@@ -56,5 +56,10 @@
     <string name="set_non_stick">ตั้งไม่เหนียว?</string>
     <string name="dark">ธีมสีเข้ม</string>
     <string name="saved">ที่บันทึกไว้</string>
-    <string name="compat_mode">Compatibility Mode</string>
+    <string name="compat_mode">โหมดที่เข้ากันได้</string>
+    <string name="share">Share</string>
+    <string name="pin">Pin</string>
+    <string name="alert">Alert</string>
+    <string name="save">Save</string>
+    <string name="ok">Ok</string>
 </resources>
