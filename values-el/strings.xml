@@ -13,7 +13,7 @@
         <br/>\u2022 Οι υπενθυμίσεις χαμηλής προτεραιότητας είναι συμπτύξιμες.
         <br/>\u2022 Οι εμμένουσες ειδοποιήσεις δεν μπορούν να απομακρυνθούν κατά λάθος.
         <br/>\u2022 Προγραμματίστε μια ειδοποίηση για να εμφανιστεί σε ένα συγκεκριμένο χρόνο.
-        <br/><br/>Μη διστάσετε να επικοινωνήσετε μαζί μου &amp; μην ξεχάσετε να γράψετε μια αξιολόγηση &#128512;]]></string>
+        <br/><br/>Μη διστάσετε να επικοινωνήσετε μαζί μου &amp; μην ξεχάσετε να γράψετε μια αξιολόγηση &#128512;]</string>
     <string name="close">Έξοδος</string>
     <string name="rate_app">Αξιολόγηση</string>
     <string name="no">Όχι</string>
@@ -57,9 +57,9 @@
     <string name="dark">Σκοτεινό θέμα</string>
     <string name="saved">Αποθηκεύτηκε</string>
     <string name="compat_mode">Λειτουργία συμβατότητας</string>
-    <string name="share">Share</string>
-    <string name="pin">Pin</string>
-    <string name="save">Save</string>
-    <string name="alert">Alert</string>
-    <string name="ok">Ok</string>
+    <string name="share">Κοινοποίηση</string>
+    <string name="pin">Καρφίτσωμα</string>
+    <string name="save">Αποθήκευση</string>
+    <string name="alert">Προειδοποίηση</string>
+    <string name="ok">OΚ</string>
 </resources>
