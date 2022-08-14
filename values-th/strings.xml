@@ -57,9 +57,11 @@
     <string name="dark">ธีมสีเข้ม</string>
     <string name="saved">ที่บันทึกไว้</string>
     <string name="compat_mode">โหมดที่เข้ากันได้</string>
-    <string name="share">Share</string>
-    <string name="pin">Pin</string>
-    <string name="alert">Alert</string>
-    <string name="save">Save</string>
-    <string name="ok">Ok</string>
+    <string name="share">แบ่งปัน</string>
+    <string name="pin">ปัก</string>
+    <string name="alert">เตือน</string>
+    <string name="save">ไว้</string>
+    <string name="ok">ตกลง</string>
+    <string name="insert_contact">Insert Contact</string>
+    <string name="attach_image">Attach Image</string>
 </resources>

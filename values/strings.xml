@@ -64,4 +64,6 @@
     <string name="unsaved">Unsaved Reminder</string>
     <string name="unsaved_warn">You have an unsaved reminder, are you sure you want to close the application?</string>
     <string name="ok">Ok</string>
+    <string name="insert_contact">Insert Contact</string>
+    <string name="attach_image">Attach Image</string>
 </resources>

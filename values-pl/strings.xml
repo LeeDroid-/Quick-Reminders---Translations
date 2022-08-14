@@ -58,9 +58,11 @@
     <string name="dark">Ciemny motyw</string>
     <string name="saved">Zapisane</string>
     <string name="compat_mode">Tryb kompatybilności</string>
-    <string name="share">Share</string>
-    <string name="pin">Pin</string>
-    <string name="save">Save</string>
+    <string name="share">Podziel się</string>
+    <string name="pin">Szpilka</string>
+    <string name="save">Zapisz</string>
     <string name="alert">Alert</string>
     <string name="ok">Ok</string>
+    <string name="insert_contact">Insert Contact</string>
+    <string name="attach_image">Attach Image</string>
 </resources>

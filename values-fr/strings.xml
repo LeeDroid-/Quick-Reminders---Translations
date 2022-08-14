@@ -58,9 +58,11 @@
     <string name="tile_max">Titre (%01d/32)</string>
     <string name="yes">Oui</string>
     <string name="compat_mode">Mode Compatibilité</string>
-    <string name="share">Share</string>
+    <string name="share">Partager</string>
     <string name="pin">Pin</string>
-    <string name="save">Save</string>
-    <string name="alert">Alert</string>
+    <string name="save">Sauvez</string>
+    <string name="alert">Alerte</string>
     <string name="ok">Ok</string>
+    <string name="insert_contact">Insert Contact</string>
+    <string name="attach_image">Attach Image</string>
 </resources>

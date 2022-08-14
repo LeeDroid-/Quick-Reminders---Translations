@@ -23,10 +23,10 @@
     <array name="reoccur_entries">
         <item>Μια φορά</item>
         <item>Ανά λεπτό</item>
-        <item>Ανά ώρα</item>
-        <item>Ανά ημέρα</item>
-        <item>Ανά εβδομάδα</item>
-        <item>Ανά μήνα</item>
-        <item>Yearly</item>
+        <item>Ωριαίως</item>
+        <item>Ημερησίως</item>
+        <item>Εβδομαδιαίως</item>
+        <item>Μηνιαίως</item>
+        <item>Ετησίως</item>
     </array>
 </resources>
