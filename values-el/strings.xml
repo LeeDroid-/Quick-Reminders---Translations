@@ -13,7 +13,7 @@
         <br />\u2022 Οι υπενθυμίσεις χαμηλής προτεραιότητας είναι συμπτύξιμες.
         <br />\u2022 Οι εμμένουσες ειδοποιήσεις δεν μπορούν να απομακρυνθούν κατά λάθος.
         <br />\u2022 Προγραμματίστε μια ειδοποίηση για να εμφανιστεί σε ένα συγκεκριμένο χρόνο.
-        <br /><br />Μη διστάσετε να επικοινωνήσετε μαζί μου &amp; μην ξεχάσετε να γράψετε μια αξιολόγηση &#128512;]></string>
+        <br /><br />Μη διστάσετε να επικοινωνήσετε μαζί μου &amp; μην ξεχάσετε να γράψετε μια αξιολόγηση &#128512;</string>
     <string name="close">Έξοδος</string>
     <string name="rate_app">Αξιολόγηση</string>
     <string name="no">Όχι</string>
@@ -62,7 +62,7 @@
     <string name="save">Αποθήκευση</string>
     <string name="alert">Προειδοποίηση</string>
     <string name="ok">OΚ</string>
-    <string name="insert_contact">Insert Contact</string>
-    <string name="attach_image">Attach Image</string>
-    <string name="image">Image</string>
+    <string name="insert_contact">Εισαγωγή επαφής</string>
+    <string name="attach_image">Επισύναψη εικόνας</string>
+    <string name="image">Εικόνα</string>
 </resources>
